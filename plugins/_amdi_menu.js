@@ -46,7 +46,7 @@ AMDI({ cmd: ["panel", "list", "menu"], desc: "Suhail Tech Info Main Menu", type:
 
     var listInfo = {}
     listInfo.title = Lang.panelTitle
-    listInfo.text = "sUHAIL tECH iNFO"
+    listInfo.text = "sUHAIL tECH iNFO" //text
     listInfo.buttonTXT = 'Select category'
 
     const sections = panelList(prefix);
