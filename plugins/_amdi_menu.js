@@ -23,7 +23,7 @@ you may not use this file except in compliance with the License.*/
 
 const { AMDI, amdiDB, _default, _default_list_sections, Language } = require('queen_amdi_core/dist/scripts');
 const { getSettings } = amdiDB.settingsDB
-const { amdiVoice } = _default
+//const { amdiVoice } = _default
 const { panelList } = _default_list_sections
 const Lang = Language.getString('amdiMenu');
 
@@ -32,7 +32,7 @@ const Lang = Language.getString('amdiMenu');
  * @cmdTypes primary, download, logo, profile, admin
 */
 
-AMDI({ cmd: ["panel", "list", "menu"], desc: "Queen Amdi Main Menu", type: "primary", react: "📂" }, (async (amdiWA) => {
+AMDI({ cmd: ["panel", "list", "menu"], desc: "Suhail Tech Info Main Menu", type: "primary", react: "📂" }, (async (amdiWA) => {
     let { input, prefix, sendAudioMsg, sendListMsg, msgDevice, sendername } = amdiWA.msgLayout;
    
     if (input) return;
@@ -46,7 +46,7 @@ AMDI({ cmd: ["panel", "list", "menu"], desc: "Queen Amdi Main Menu", type: "prim
 
     var listInfo = {}
     listInfo.title = Lang.panelTitle
-    listInfo.text = text
+    listInfo.text = "sUHAIL tECH iNFO"
     listInfo.buttonTXT = 'Select category'
 
     const sections = panelList(prefix);
