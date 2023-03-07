@@ -31,8 +31,8 @@
             "connDONE": "```Queen Amdi bot has been successfully activated! ✅```\n\n_Please do not try commands here. This is your bot logs chat._\n\n*Thank you for using Queen Amdi 💌*"
         },
         "amdiMenu": {
-            "panelTitle": "📋 QUEEN AMDI COMMAND LIST 💃🏻♥️",
-            "panelText": "\n\n📚 Commands categories:\n```01.Primary Commands - All main commands.\n02.Download Commands - Media downloading commands.\n03.Logo Commands - Logo making commands.\n04.Admin Commands - Groups related commands.\n05.Profile Commands - Bot settings and bot WhatsApp profile related commands.```\n*Please choose a command category and get the command list.*",
+            "panelTitle": "📋 SUHAIL BOT COMMAND LIST 💃🏻♥️",
+            "panelText": "\n📚 Commands categories:\n01.Primary Commands - All main commands.\n02.Download Commands - Media downloading commands.\n03.Logo Commands - Logo making commands.\n04.Admin Commands - Groups related commands.\n05.Profile Commands - Bot settings and bot WhatsApp profile related commands.\n*Please choose a command category and get the command list.*",
             "command": "*Command :* ",
             "desc": "*Description :* ",
             "example": "*Example :* ",
