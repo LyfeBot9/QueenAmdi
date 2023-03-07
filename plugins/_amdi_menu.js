@@ -37,7 +37,7 @@ AMDI({ cmd: ["panel", "list", "menu"], desc: "Suhail Tech Main Menu", type: "pri
    
     if (input) return;
 
-    const audioURL = amdiVoice
+    //const audioURL = amdiVoice
     const pttStatus = true
     let mimeType = msgDevice == 'ios' ? 'audio/mp4' : 'audio/ogg; codecs=opus'
     await sendAudioMsg({ url: audioURL }, {mimetype: mimeType, ptt: pttStatus});
