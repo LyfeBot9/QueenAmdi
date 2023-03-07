@@ -32,7 +32,7 @@
         },
         "amdiMenu": {
             "panelTitle": "📋 QUEEN AMDI COMMAND LIST 💃🏻♥️",
-            "panelText": "\n\n📚 Queen Amdi Commands are classified into 5 categories :\n\n```01.Primary Commands - All main commands.(Any user allowed)\n\n02.Download Commands - Media downloading commands.\n\n03.Logo Commands - Logo making commands.\n\n04.Admin Commands - Groups related commands.(Only group admins allowed)\n\n05.Profile Commands - Bot settings and bot WhatsApp profile related commands.(Only Bot owner and VIP users allowed)```\n\n*Please choose a command category and get the command list.*",
+            "panelText": "\n\n📚 Commands categories:\n```01.Primary Commands - All main commands.\n02.Download Commands - Media downloading commands.\n03.Logo Commands - Logo making commands.\n04.Admin Commands - Groups related commands.\n05.Profile Commands - Bot settings and bot WhatsApp profile related commands.```\n*Please choose a command category and get the command list.*",
             "command": "*Command :* ",
             "desc": "*Description :* ",
             "example": "*Example :* ",
